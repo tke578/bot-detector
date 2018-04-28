@@ -1,0 +1,25 @@
+{"timestamp": 1487722870, "user": "Una", "action": "navigate"}
+{"timestamp": 1487722871, "user": "Una", "action": "navigate"}
+{"timestamp": 1487722872, "user": "Una", "action": "navigate"}
+{"timestamp": 1487722873, "user": "Una", "action": "navigate"}
+{"timestamp": 1487722874, "user": "Una", "action": "navigate"}
+{"timestamp": 1487722970, "user": "Una", "action": "navigate"}
+{"timestamp": 1487722971, "user": "Una", "action": "navigate"}
+
+{"timestamp": 1487722971, "user": "Bob", "action": "navigate"}
+{"timestamp": 1487722972, "user": "Bob", "action": "navigate"}
+{"timestamp": 1487722981, "user": "Bob", "action": "navigate"}
+{"timestamp": 1487722991, "user": "Bob", "action": "navigate"}
+{"timestamp": 1487724971, "user": "Bob", "action": "navigate"}
+{"timestamp": 1487726971, "user": "Bob", "action": "navigate"}
+{"timestamp": 14877227971, "user": "Bob", "action": "navigate"}
+
+{"timestamp": 1487722971, "user": "Jose", "action": "mouse click"}
+{"timestamp": 1487722972, "user": "Jose", "action": "mouse click"}
+{"timestamp": 1487722981, "user": "Jose", "action": "mouse click"}
+{"timestamp": 1487722991, "user": "Jose", "action": "mouse click"}
+{"timestamp": 1487724971, "user": "Jose", "action": "mouse click"}
+{"timestamp": 1487726971, "user": "Jose", "action": "mouse click"}
+{"timestamp": 14877227971, "user": "Jose", "action": "navigate"}
+
+
